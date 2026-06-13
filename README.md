@@ -245,7 +245,7 @@ streamlit run app.py
 
 ## 👨‍💻 Developed By
 
-**Neelam Bhargavi**
+**Neelam Tarun Balaji**
 
 B.Tech Graduate | Data Analytics & Machine Learning Enthusiast
 

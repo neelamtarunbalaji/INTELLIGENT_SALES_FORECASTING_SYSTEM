@@ -7,7 +7,6 @@ streamlit
 scikit-learn
 xgboost
 prophet
-tensorflow
 statsmodels
 openpyxl
 reportlab
